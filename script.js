@@ -1,19 +1,19 @@
 $(document).ready(function($) {
 
     $('#btnFacebook').click(function() {
-      window.location.href = "https://dev.e-hoi.edtest.local/misael-ratiarinambinina/Testseite/cfm/apiFacebook.cfm" ;
+      window.location.href = "https://www.facebook.com" ;
     })
 
     $('#btnYoutube').click(function() {
-      window.location.href = "https://dev.e-hoi.edtest.local/misael-ratiarinambinina/Testseite/cfm/apiYoutube.cfm" ;
+      window.location.href = "https://www.youtube.com" ;
     })
 
     $('#btnInstagram').click(function() {
-      window.location.href = "https://dev.e-hoi.edtest.local/misael-ratiarinambinina/Testseite/cfm/apiInstagram.cfm" ;
+      window.location.href = "https://www.instagram.com" ;
     })
 
     $('#btnTwitter').click(function() {
-      window.location.href = "https://dev.e-hoi.edtest.local/misael-ratiarinambinina/Testseite/cfm/apiTwitter.cfm" ;
+      window.location.href = "www.twitter.com" ;
     })
 
 

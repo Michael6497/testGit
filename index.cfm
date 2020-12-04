@@ -22,7 +22,7 @@
  </head>
 
  <body>
- <cfinclude template="header.cfm">
+
 
 
      <div class="content container-fluid text-left">
@@ -57,8 +57,7 @@
             <!--- Mitte--->
           <div class="col col-sm-6 ">
 
-                   <cfinclude template="slide.cfm">
-
+                   
               <div id="bewertungCont">
                    <div id="bewertung">
                     	<p class="text-center"><b><cfoutput>Bewertungen von unseren Spielern</cfoutput></b></p>
